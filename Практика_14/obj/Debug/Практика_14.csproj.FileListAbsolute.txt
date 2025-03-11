@@ -1,0 +1,10 @@
+C:\Users\305-10\Desktop\Гурина ПР-21\Практика_14\obj\Debug\Практика_14.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\Практика_14\obj\Debug\Практика_14.Form1.resources
+C:\Users\305-10\Desktop\Гурина ПР-21\Практика_14\obj\Debug\Практика_14.Properties.Resources.resources
+C:\Users\305-10\Desktop\Гурина ПР-21\Практика_14\obj\Debug\Практика_14.csproj.GenerateResource.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\Практика_14\obj\Debug\Практика_14.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\Практика_14\bin\Debug\Практика_14.exe.config
+C:\Users\305-10\Desktop\Гурина ПР-21\Практика_14\bin\Debug\Практика_14.exe
+C:\Users\305-10\Desktop\Гурина ПР-21\Практика_14\bin\Debug\Практика_14.pdb
+C:\Users\305-10\Desktop\Гурина ПР-21\Практика_14\obj\Debug\Практика_14.exe
+C:\Users\305-10\Desktop\Гурина ПР-21\Практика_14\obj\Debug\Практика_14.pdb
